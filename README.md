@@ -29,24 +29,24 @@ NumPy	Numerical operations
 Plotly	Interactive visualization
 Jupyter Notebook	Development environment
 📂 Project Structure
- EV-Analytics-Dashboard/
- │
- ├── data/
- │   └── ev_dataset.csv
- │
- ├── notebooks/
- │   └── ev_analysis.ipynb
- │
- ├── dashboard/
- │   └── ev_dashboard.py
- │
- ├── images/
- │   └── dashboard_screenshots.png
- │
- ├── report/
- │   └── project_report.pdf
- │
- └── README.md
+EV-Analytics-Dashboard/
+│
+├── data/
+│   └── ev_dataset.csv
+│
+├── notebooks/
+│   └── ev_analysis.ipynb
+│
+├── dashboard/
+│   └── ev_dashboard.py
+│
+├── images/
+│   └── dashboard_screenshots.png
+│
+├── report/
+│   └── project_report.pdf
+│
+└── README.md
 🔄 ETL Process
 Extract
 Load dataset using Pandas (read_csv())
