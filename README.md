@@ -79,7 +79,7 @@ Top Models Analysis
 Density & Heatmap Analysis
 
 📸 Dashboard Preview
-![Dashboard Preview]([https://github.com/SagarGhosh01/Visualizing-the-EV-Revolution/blob/f80b18176d491edeacbddedd5216995e11fadfa3/Screenshot%202026-04-18%20005627.png])
+![Dashboard Preview]([https://github.com/SagarGhosh01/Visualizing-the-EV-Revolution/blob/main/Screenshot%202026-04-18%20005627.png])
 
 
 🚀 How to Run
